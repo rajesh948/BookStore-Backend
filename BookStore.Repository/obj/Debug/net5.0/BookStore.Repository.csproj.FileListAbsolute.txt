@@ -1,0 +1,30 @@
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\refint\BookStore.Repository.dll
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+D:\Rajesh\programing\intership\BookStore\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.deps.json
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.dll
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\bin\Debug\net5.0\BookStore.Repository.pdb
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.dll
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CopyComplete
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.dll
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\refint\BookStore.Repository.dll
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.pdb
+D:\Rajesh\programing\intership\project bookstore\bookstore\BookStore.Repository\obj\Debug\net5.0\ref\BookStore.Repository.dll
